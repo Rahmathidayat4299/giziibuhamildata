@@ -15,4 +15,4 @@ const makanan = [
   // Daftar makanan lainnya...
 ];
 
-module.exports = makanan;
+export default makanan;
