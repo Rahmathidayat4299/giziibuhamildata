@@ -14,5 +14,4 @@ const makanan = [
   },
   // Daftar makanan lainnya...
 ];
-
-export default makanan;
+module.exports= makanan;
